@@ -2,7 +2,7 @@
 I'm creating this repository to showcase fundamental concepts in machine learning. Currently, my focus revolves around two key concepts: overfitting and comparing/contrasting 
 the differences in inheritance between Python and C++.
 
-=============================**Overfitting in machine Learning** ===============================
+====================**Overfitting in machine Learning** =========================
 
 Overfitting is a common challenge in machine learning where a model learns to perform very well on the training data but does poorly on unseen or new data (the test data). To overcome overfitting and build more generalizable models, you can employ various techniques and strategies:
 
@@ -42,7 +42,7 @@ Feature Selection: Carefully select the most relevant features and eliminate irr
 
 The choice of which techniques to use depends on the specific problem, dataset, and model you are working with. It's often beneficial to experiment with different approaches and combinations of techniques to find the best way to combat overfitting in your machine learning project.
 
-=================================**Resouces on Overfitting** ===================================
+====================**Resouces on Overfitting** ============================
 
 **Books:**
 
