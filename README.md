@@ -42,7 +42,7 @@ Feature Selection: Carefully select the most relevant features and eliminate irr
 
 The choice of which techniques to use depends on the specific problem, dataset, and model you are working with. It's often beneficial to experiment with different approaches and combinations of techniques to find the best way to combat overfitting in your machine learning project.
 
-=============================**Resouces on Overfitting** ===============================
+=================================**Resouces on Overfitting** ===================================
 
 **Books:**
 
