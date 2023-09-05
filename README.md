@@ -41,6 +41,7 @@ Feature Selection: Carefully select the most relevant features and eliminate irr
 **Domain-specific Knowledge:** Incorporate domain-specific knowledge to guide model design and feature selection.
 
 The choice of which techniques to use depends on the specific problem, dataset, and model you are working with. It's often beneficial to experiment with different approaches and combinations of techniques to find the best way to combat overfitting in your machine learning project.
+
 =============================**Resouces on Overfitting ** ===============================
 
 **Books:**
